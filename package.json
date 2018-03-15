@@ -1,0 +1,32 @@
+{
+  "name": "Sorting-Secret-friend",
+  "version": "0.0.1",
+  "description": "App a prueba",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18Roderick/02Express.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "Express",
+    "SocketIO",
+    "Sequelize"
+  ],
+  "author": "Roderick Romero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/18Roderick/02Express/issues"
+  },
+  "homepage": "https://github.com/18Roderick/02Express#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "mysql2": "^1.5.2",
+    "sequelize": "^4.36.1",
+    "socketio": "^1.0.0"
+  }
+}
